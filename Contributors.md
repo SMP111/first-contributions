@@ -10,6 +10,7 @@
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
+- [Sharvil Potdar@DevsocPI](https://github.com/SMP111)
 - [Vishal Kanwar](https://github.com/Kanvi1)
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
